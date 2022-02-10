@@ -30,7 +30,7 @@
     "@babel/runtime": "7.6.3",
     "less": "3.10.3",
     "less-loader": "5.0.0",
-    "node-sass": "4.12.0",
+    "node-sass": "7.0.0",
     "postcss-loader": "3.0.0",
     "react": "16.10.2",
     "react-dom": "16.10.2",
